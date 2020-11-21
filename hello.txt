@@ -1,0 +1,2 @@
+Hello world this is my first text file created in git.
+Am learning git and github right now and i want to push my first ever file on githup.
