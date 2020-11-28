@@ -1,2 +1,4 @@
 Hello world this is my first text file created in git.
 Am learning git and github right now and i want to push my first ever file on githup.
+Git is a version control system thathelps you manage and keeps track of your source code history.
+Github is a cloud-based hosting service that lets you manage git repositories.
