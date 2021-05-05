@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Order page</title>
+	<link rel="stylesheet" type="text/css" href="order page.css">
+</head>
+<body>
+	<marquee scroll  delay=5>Angel K's Restaurant</marquee>
+	<h3>Please fill out the form below to place your order</h3>
+	<form action="insert.php" method="post">
+		<h2>Order form</h2>
+		<div class="input1">
+		<input type="text" name="name" placeholder="enter your name" class="input" required>
+		</div>
+		<br>
+		<input type="text" name="number" placeholder="enter your phone number" class="input" required>
+		<br>
+		<br>
+		<input type="email" name="email" placeholder="enter your email" class="input" required>
+		<br>
+		<br>
+		<input type="text" name="food-type" placeholder="enter type of food"  class="input" required>
+		<br>
+		<br>
+		<input type="number" name="plate" placeholder="enter number of plate" class="input" required>
+		<br>
+		<br>
+		<input type="submit" value="Order" class="submit" id="color">
+		<a href="restaurant.html"><input type="button" value ="Cancel" onclick="alert('Please order something')"  class="submit" ></a>
+	</form>
+	<p>Back to home</p>
+	<a href="restaurant.html" id="home">Home</a>
+
+</body>
+</html>

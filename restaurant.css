@@ -1,0 +1,87 @@
+body
+{
+	background: url('rice.webp'); 
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.nav
+{
+	display: inline-flex;
+	border: 2px solid blue;
+	background-color: yellow;
+}
+.nav ul
+{
+	list-style: none;
+	display: inline-flex;
+	
+}
+.nav ul li
+{
+	width: 290px;
+}
+.nav ul li  a
+{
+	text-decoration: none;
+	background-color: pink;
+	border: 2px solid cyan;
+	border-radius: 15px;
+	padding: 7px;
+}
+.logo
+{
+ padding-left: 4px;
+  margin-top: 10px;
+}
+
+.wel
+{
+	display: inline-flex;
+}
+.welcome
+{
+	text-align: center;
+	margin-left: 280px;
+	margin-top: 100px;
+}
+.contact
+{
+	margin-top: 30px;
+}
+.pic
+{
+	margin-top: 40px;
+	margin-left: 230px;
+	border: 2px solid blue;
+	background-color: pink;
+	text-align: center;
+}
+.abt
+{
+	display: inline-flex;
+}
+.ads
+{
+	margin-left: 270px;
+	margin-top: 70px;
+}
+.location
+{
+	margin-left: 230px;
+	margin-top: 180px;
+}
+.opc
+{
+	margin-top: 50px;
+}
+.but
+{
+	margin-left: 250px;
+	text-decoration: none;
+	border: solid 2px cyan;
+	background-color: pink;
+	border-radius: 15px;
+	padding: 7px;
+
+}

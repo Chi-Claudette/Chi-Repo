@@ -1,0 +1,62 @@
+.nav
+{
+	display: inline-flex;
+	border: 2px solid blue;
+	background-color: yellow;
+}
+.nav ul
+{
+	list-style: none;
+	display: inline-flex;
+	
+}
+.nav ul li
+{
+	width: 290px;
+}
+.nav ul li  a
+{
+	text-decoration: none;
+	background-color: pink;
+	border: 2px solid cyan;
+	border-radius: 15px;
+	padding: 7px;
+}
+.logo
+{
+ padding-left: 4px;
+ margin-top: 10px;
+}
+.welcome
+{
+	text-align: center;
+	margin-top: 30PX;
+}
+.food1
+{
+	display: inline-flex;
+}
+.food2
+{
+	display: inline-flex;
+	margin-top: 20px;
+}
+.food
+{
+	margin-left: 30px;
+	border: 2px solid blue;
+	background-color: pink;
+	text-align: center;
+}
+.order
+{
+	text-decoration: none;
+	border: 2px solid cyan;
+	border-radius: 10px;
+	padding: 7px;
+	background-color: pink;
+}
+.ord
+{
+	margin-top: 20px;
+}
